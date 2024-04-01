@@ -25,15 +25,22 @@ i)	#Selection Sort
 
 
 
+
 ```
 ii)	#Insertion Sort
 ```
-
-
-
-
-
-
+#Insertion Sort
+#Developed by : Sana Fathima H
+#Register no : 212223240145
+num=eval(input())
+for i in range(1,len(num)):
+    insert=num[i]
+    j=i-1
+    while j>=0 and num[j]>=insert:
+        num[j+1]=num[j]
+        j=j-1
+        num[j+1]=insert
+print(num)
 ```
 
 ## Output:
