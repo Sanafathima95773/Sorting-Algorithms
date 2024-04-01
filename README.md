@@ -37,6 +37,10 @@ ii)	#Insertion Sort
 ```
 
 ## Output:
+![Screenshot 2024-04-01 081546](https://github.com/Sanafathima95773/Sorting-Algorithms/assets/147084627/35dc4eeb-7785-4508-a65f-a74c14b64607)
+![Screenshot 2024-04-01 081546](https://github.com/Sanafathima95773/Sorting-Algorithms/assets/147084627/ea5075a9-1c35-498a-914c-ae726b464621)
+
+
 
 
 ## Result:
